@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</p>
+<h1 align="center">Joseph</h1>
+
+<p align="center">    
+    <img src="https://github.com/JosephFrankFir/JosephFrankFir/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
+</p>
