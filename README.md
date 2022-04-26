@@ -21,3 +21,8 @@ Here are some ideas to get you started:
 <p align="center">    
     <img src="https://github.com/JosephFrankFir/JosephFrankFir/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
 </p>
+
+
+<p align="center">    
+    <img src="https://github.com/JosephFrankFir/JosephFrankFir/blob/main/github-metrics.svg">
+</p>
