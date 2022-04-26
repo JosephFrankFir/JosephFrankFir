@@ -14,8 +14,7 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }
-          USERNAME: ${{ github.repository_owner }}
-          user:  ${{ github.repository_owner }}
+          user:  josephfrankfir
           template: classic
           base: activity, community, repositories, metadata
           config_timezone: Europe/Berlin
